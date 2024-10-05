@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Wenhui Li"
   avatar           : "Profile.jpeg"
-  bio              : "Postdoctoral Researcher\n<a href='https://jadhaolab.engineering.indiana.edu/group.html'>Vikram Jadhao Group</a>" 
+  bio              : "Postdoctoral Researcher\n
+  <a href='https://jadhaolab.engineering.indiana.edu/index.html'>Vikram Jadhao Group</a>" 
   location         : "Bloomington IN, USA"
   employer         : "Indiana University" 
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
